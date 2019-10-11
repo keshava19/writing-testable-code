@@ -1,7 +1,7 @@
 # writing-testable-code
 Sample code for course on writing testable code.
 
-6 Module course.
+Progress
 - [x] Module 1
 - [x] Module 2
 - [ ] Module 3
