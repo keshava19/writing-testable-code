@@ -1,5 +1,5 @@
 name: writing_testable_code
-description: A sample command-line application.
+description: Sample code for course on writing testable code.
 # version: 1.0.0
 # homepage: https://www.example.com
 # author: Your Name <email@example.com>
@@ -7,7 +7,8 @@ description: A sample command-line application.
 environment:
   sdk: '>=2.5.0 <3.0.0'
 
-#dependencies:
+dependencies:
+  mockito: ^4.1.1
 #  path: ^1.6.0
 
 dev_dependencies:
