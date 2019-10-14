@@ -10,7 +10,7 @@ Progress
 - [ ] Module 6
 
 ### Module 2 Summary
-- Create [Seams](https://softwareengineering.stackexchange.com/a/132565) in Code
+- Create [Seams] in Code
 - Decouple Dependies
 - Program to Interfaces
 - Inject dependencies
@@ -24,4 +24,8 @@ Progress
 - Separate Injetables vs. Newables
 
 Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+[license].
+
+<!--link-->
+[license]: https://github.com/dart-lang/stagehand/blob/master/LICENSE
+[Seams]: https://softwareengineering.stackexchange.com/a/132565
